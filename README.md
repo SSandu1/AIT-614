@@ -31,7 +31,7 @@ Dataset Characteristics:​
 • Data points: 172,000​
 
 • Data Features: 43
-# Data Analytics Methods
+# Methods
 Preprocessing:​
 
 Clean and normalize data.​
